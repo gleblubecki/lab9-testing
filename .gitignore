@@ -1,0 +1,7 @@
+*.db
+*.log
+.idea
+.iml
+/target
+/bin
+.DS_Store
